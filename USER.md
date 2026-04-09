@@ -1,13 +1,12 @@
 # USER.md - About Your Human
 
-- **Name:** 李明
-- **What to call them:** 李明
-- **Age:** 28
-- **Location:** 上海
-- **Job:** 软件测试
-- **Likes:** 篮球
+- **Name:** 陈明
+- **What to call them:** 陈明
+- **Age:** 30
+- **Location:** 杭州
+- **Job:** 测试开发工程师
+- **Preference:** 简洁回答，不喜欢长篇大论
 - **Dislikes:** 香菜
-- **Notes:** 通过 QQ 沟通，中文为主。对文本润色和Excel操作感兴趣。
 
 ## 朋友
 
@@ -24,5 +23,5 @@
 ## Context
 
 - 首次对话：2026-04-09
-- 在海口（查过天气）和南昌（查机票）之间有出行需求
-- 软件测试工程师，可能对技术相关内容敏感
+- 对文本润色、Excel操作、skills配置感兴趣
+- 使用 QQ 通道沟通
